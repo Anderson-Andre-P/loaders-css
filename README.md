@@ -10,7 +10,7 @@
 </p>
 
 <h2 align="center">
-  <img alt="Demo do Loader CSS" title="Loaders-CSS" src="https://github.com/Anderson-Andre-P/GoFinances/blob/main/Capa.png">
+  <img alt="Demo do Loader CSS" title="Loaders-CSS" src="https://github.com/Anderson-Andre-P/loaders-css/blob/main/Loaders-Demo.png">
 </h2>
 
 ### Features
