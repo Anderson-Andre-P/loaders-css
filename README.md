@@ -6,7 +6,7 @@
    Aplicação desenvolvida para aprender mais sobre animações feitas com HTML e CSS.
 </h2>
 
-<p align="center">Esse site foi desenvolvido com o auxílio de um repositório público do CodePen, porém não foi uma cópia (Ctrl + C + Ctrl + V), fiz como se fosse um tutorial buscando entender o funcionanmento das animações. Você pode ver o site <a href="https://anderson-andre-p.github.io/loaders-css/" target="_blank">clicando aqui.</a>
+<p align="center">Esse site foi desenvolvido com o auxílio de um repositório público do CodePen, porém não foi uma cópia (Ctrl C + Ctrl V), fiz como se fosse um tutorial buscando entender o funcionanmento das animações. Você pode ver o site <a href="https://anderson-andre-p.github.io/loaders-css/" target="_blank">clicando aqui.</a>
 </p>
 
 <h2 align="center">
